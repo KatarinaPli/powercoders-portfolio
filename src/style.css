@@ -8,3 +8,44 @@
   --accent-font: 'Lilita One', cursive;;
   --maine-font: 'Be Vietnam Pro', sans-serif;
 }
+
+*{
+  padding: 0;
+  margin: 0;
+ box-sizing: border-box;
+  /*box-sizing: content-box;*/
+ 
+  font-family: var(--maine-font);
+  color: var(--main-font-color);
+}
+
+
+
+
+
+
+.home-section {
+  background-color: var(--background-color);
+  padding-top: 200px;
+  padding-bottom: 190px;
+  text-align: center;
+
+}
+.hero{
+    color: var(--first-accent-color);
+    margin-top: 60px;
+}
+.hero h2{
+ font-size: 45px;
+ font-family: var(--accent-font);
+}
+.hero h1{
+    font-size: 95px;
+     font-family: var(--accent-font);
+}
+.tags{
+    color:var(--main-font-color) ;
+    font-family: var(--extra-font);
+    font-size: 28px;
+    margin: 20px;
+}
