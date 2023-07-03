@@ -63,7 +63,7 @@ a {
   font-weight: 400;
 }
 .nav-link:hover {
-  color: #827982ce;
+  color: #8F6593;
 }
 .hamburger {
   display: none;
@@ -128,12 +128,32 @@ a {
 
 
 
+.about-section{
+    background-color: var(--main-font-color);
+    font-family: var(--maine-font);
+    padding-top: 90px;
+    padding-bottom: 60px;
 
+ 
+}
 
+.portfolio-photo {
+    width: 300px;
+    border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
+}
 
+.about-name, .aboutme-description {
+    color: var(--background-color);
+}
+.accent-element {
+    color: #ffffff;
+    border: 1px solid #DDD92A;
+    border-radius: 30px;
+    padding: 3px 12px;
+background-color: #ddda2a;
+line-height: 1.5;
 
-
-
+}
 
 
 
@@ -214,6 +234,12 @@ right: 0%;
     font-family: var(--extra-font);
     font-size: 15px;
     margin: 10px;
+}
+.portfolio-photo{
+    width: 225px;
+    display: block;
+      margin: 0 auto;
+      margin-bottom: 30px;
 }
 
 
