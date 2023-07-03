@@ -188,5 +188,34 @@ right: 0%;
 
 
 
+
+
+  .home-section {
+  background-color: var(--background-color);
+  padding-top: 150px;
+  padding-bottom: 50px;
+  
+
+}
+.hero{
+    color: var(--first-accent-color);
+    margin-top: 10%;
+}
+.hero h2{
+ font-size: 27px;
+ font-family: var(--accent-font);
+}
+.hero h1{
+    font-size: 65px;
+     font-family: var(--accent-font);
+}
+.tags{
+    color:var(--main-font-color) ;
+    font-family: var(--extra-font);
+    font-size: 15px;
+    margin: 10px;
+}
+
+
 }
 
