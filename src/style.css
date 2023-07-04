@@ -174,10 +174,10 @@ line-height: 1.5;
    transition: all 2s linear;
    
 }
-.portfolio-web-mockup:hover{transform: scale(1.2);}
-.weather-web-mockup:hover{transform: scale(1.2);}
-.croissant-web-mockup:hover{transform: scale(1.2);}
-.yogurt-web-mockup:hover{transform: scale(1.2);}
+.portfolio-web-mockup:hover{transform: scale(1.1);}
+.weather-web-mockup:hover{transform: scale(1.1);}
+.croissant-web-mockup:hover{transform: scale(1.1);}
+.yogurt-web-mockup:hover{transform: scale(1.1);}
 
 .link-work{
   text-decoration: none;
@@ -191,7 +191,6 @@ line-height: 1.5;
   text-decoration: underline;
   color: #fefb30;
 }
-
 
 
 
@@ -254,6 +253,10 @@ line-height: 1.5;
   font-size: 30px;
 }
 
+.projects-list{
+  margin-top: 150px ;
+  
+}
 
 
 
