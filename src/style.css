@@ -159,10 +159,19 @@ line-height: 1.5;
     background-color: var(--background-color);
     padding: 80px;
 }
-
-
-
-
+.portfolio-web-mockup{
+  border-radius: 30% 60% 15% 80% / 60% 40% 60% 40%;
+}
+.weather-web-mockup{
+  border-radius: 40% 80% 65% 70% / 30% 70% 20% 90%;
+}
+.croissant-web-mockup{
+   border-radius: 70% 40% 30% 70% / 60% 40% 60% 40%;
+}
+.yogurt-web-mockup{
+   border-radius: 24% 60% 85% 30% / 40% 40% 60% 40%;
+   
+}
 
 
 
