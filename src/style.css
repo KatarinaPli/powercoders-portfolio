@@ -179,10 +179,18 @@ line-height: 1.5;
 .croissant-web-mockup:hover{transform: scale(1.2);}
 .yogurt-web-mockup:hover{transform: scale(1.2);}
 
-.btn-work{
-  
+.link-work{
+  text-decoration: none;
+  color: #ddda2ac9;
+  padding: 10px;
+  font-family: var(--maine-font);
+  transition: all 0.4s ease-in-out;
+  font-size: 17px;
 }
-
+.link-work:hover{
+  text-decoration: underline;
+  color: #fefb30;
+}
 
 
 
