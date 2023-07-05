@@ -314,10 +314,30 @@ text-align: center;
 /* SKILLS SECTION*/
 
 .skills-section{
-  background-color: #ddda2a;
-  padding-top: 80px ;
+  background-color: #ffffff;
+
+}
+section{
+  width: 100%;
+  min-height: 300px;
+}
+.wave{
+  background-color: #02010a;
+   
+ position: relative;
 }
 
+.wave:before{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 250px;
+  background: url("/images/wave.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .grid-container{
   display: grid;
@@ -447,6 +467,7 @@ right: 0%;
       margin: 0 auto;
       margin-bottom: 30px;
 }
+.wave:before{  height: 100px;}
 
 }
 
