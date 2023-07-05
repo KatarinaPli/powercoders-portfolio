@@ -278,8 +278,27 @@ display: inline-block;
 }
 
 
+.download-cv-btn{
+   background-color: #8F6593;
+  color: #ffffff;
+  border-radius: 30px;
+  padding: 15px 25px;
+  font-family: var(--extra-font);
+  font-size: 22px;
+  border: 1 solid transparent;
+display: block;
+width: 50%;
+margin: 25px auto;
 
+box-shadow: rgba(47, 35, 48, 0.16) 0px 1px 4px;
+text-align: center;
+ overflow: hidden;
+  transition: all 600ms ease-in-out;
+}
 
+.download-cv-btn:hover{
+  background-color:#DDD92A;
+}
 
 
 
