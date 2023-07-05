@@ -12,3 +12,6 @@ document.querySelectorAll(".nav-link").forEach((n) =>
     navMenu.classList.remove("active");
   })
 );
+
+
+// document.getElementById("open-web-btn").onclick = function() { location.href = ""};
