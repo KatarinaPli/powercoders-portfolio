@@ -666,7 +666,7 @@ right: 0%;
   .home-section {
   background-color: var(--background-color);
   padding-top: 150px;
-  padding-bottom: 90px;
+  padding-bottom: 110px;
   
 
 }
@@ -679,7 +679,7 @@ right: 0%;
  font-family: var(--accent-font);
 }
 .hero h1{
-    font-size: 65px;
+    font-size: 45px;
      font-family: var(--accent-font);
 }
 .tags{
