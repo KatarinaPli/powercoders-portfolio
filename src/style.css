@@ -442,7 +442,11 @@ box-shadow: rgba(70, 11, 62, 0.151) 0px 4px 12px;
 */
 
 
-
+.chart-img{
+  width: 200px;
+  display: block;
+  margin: auto;
+}
 
 
 
@@ -525,6 +529,11 @@ right: 0%;
       margin-bottom: 30px;
 }
 .wave:before{  height: 100px;}
+
+.chart-img{
+  width: 100px;
+}
+
 
 }
 
