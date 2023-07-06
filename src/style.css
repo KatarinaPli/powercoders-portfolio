@@ -555,6 +555,59 @@ text-align: center;
 }
 
 
+/* CONTACT PAGE*/
+
+
+.link-socialmedia{
+  color: #5c3a60;
+  text-decoration: underline;
+  transition:  all 0.6s ease;
+font-family: var(--maine-font);
+ font-size: 20px;
+}
+
+.link-socialmedia:hover{
+  color: var(--first-accent-color);
+}
+.name-link{
+  font-family: var(--maine-font);
+  font-size: 27px;
+margin-bottom: 0;
+margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
